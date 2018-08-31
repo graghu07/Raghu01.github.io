@@ -405,6 +405,14 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 .wthreeskills {
 	background-color: #eee;
 }
+
+.container-fluid p {
+	color: white;
+	font-size: 1.5em;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
 /*-- Tabs --*/
 	.sap_tabs {
 		clear: both;
@@ -457,7 +465,7 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 	}
 
 	.resp-tab-active span {
-		color: #FFF;
+		color: white;
 		font-family: 'Nunito', sans-serif;
 	}
 
